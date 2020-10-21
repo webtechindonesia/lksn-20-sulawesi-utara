@@ -1,0 +1,10 @@
+SpeedTest :
+https://github.com/marcelino434/module_speedtest-lksn-2020.git
+
+Module_server :
+https://github.com/marcelino434/module_server-lksn-2020.git
+
+Module CMS :
+https://github.com/marcelino434/wordpressCMS_lksn-2020.git
+
+Save
